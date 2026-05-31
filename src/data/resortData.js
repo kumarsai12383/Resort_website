@@ -4,7 +4,7 @@
 export const resortInfo = {
   name: "Aethelgard",
   tagline: "Experience Luxury Beyond Imagination",
-  location: "Amalfi Coast, Italy",
+  location: "Globally Renowned Clifftop Resort, Amalfi Coast, Italy",
   coordinates: "40.6331° N, 14.6029° E",
   phone: "+39 089 123 4567",
   email: "reservations@aethelgardresorts.com",
@@ -39,7 +39,7 @@ export const signatureRooms = [
     size: "120 m² / 1,290 ft²",
     occupancy: "2 Adults",
     view: "Panoramic Mediterranean Sea",
-    price: "€2,900 / night",
+    price: "₹12,900 / night",
     image: "https://images.unsplash.com/photo-1590490360182-c33d57733427?q=80&w=1200&auto=format&fit=crop",
   },
   {
@@ -49,7 +49,7 @@ export const signatureRooms = [
     size: "340 m² / 3,660 ft²",
     occupancy: "6 Guests",
     view: "360° Cliffside & Gulf Vista",
-    price: "€8,500 / night",
+    price: "₹10,500 / night",
     image: "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=1200&auto=format&fit=crop",
   },
   {
@@ -59,7 +59,7 @@ export const signatureRooms = [
     size: "520 m² / 5,600 ft²",
     occupancy: "8 Guests",
     view: "Emerald Gulf & Coastal Skyline",
-    price: "€12,000 / night",
+    price: "₹12,000 / night",
     image: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1200&auto=format&fit=crop",
   }
 ];
