@@ -29,7 +29,7 @@ export const signatureRooms = [
     size: "85 m² / 915 ft²",
     occupancy: "2 Adults",
     view: "Bespoke Botanical Gardens",
-    price: "€1,850 / night",
+    price: "₹11,850 / night",
     image: "https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=1200&auto=format&fit=crop",
   },
   {
